@@ -64,6 +64,9 @@ install.packages(c("ggplot2", "ggrepel", "ggpubr", "pheatmap",
 
 ## Citation / Contact
 Proprotein convertase activity regulates cumulus-oocyte-complex matrix integrity and cumulus cell migration during ovulation via a GDF9-dependent mechanism
+
 Caroline E. Kratka, et al. 
+
 Question please email: ruixu.huang0405@gmail.com
+
 Relevant data is in GSE331136
